@@ -1,4 +1,4 @@
-package net.befitca.aws.poc.rs.om;
+package net.befitca.poc.aws.rs.om;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

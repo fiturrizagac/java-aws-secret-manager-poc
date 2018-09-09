@@ -1,8 +1,8 @@
-package net.befitca.aws.poc.rs;
+package net.befitca.poc.aws.rs;
 
 import java.util.Arrays;
 
-import net.befitca.aws.poc.rs.om.CollectionResponse;
+import net.befitca.poc.aws.rs.om.CollectionResponse;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;

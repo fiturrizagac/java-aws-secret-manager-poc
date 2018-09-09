@@ -10,6 +10,9 @@ plugins {
     id 'org.springframework.boot' version '2.0.0.RELEASE'
 }
 
+group 'net.befitca.poc.aws'
+version '0.1.0-SNAPSHOT'
+
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
 
@@ -38,4 +41,4 @@ dependencies {
 }
 
 // Define the main class for the application
-mainClassName = 'net.befitca.aws.poc.App'
+mainClassName = 'net.befitca.poc.aws.App'

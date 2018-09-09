@@ -1,4 +1,4 @@
-package net.befitca.aws.poc;
+package net.befitca.poc.aws;
 
 import java.util.HashMap;
 import java.util.Map;
