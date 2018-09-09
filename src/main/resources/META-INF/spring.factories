@@ -1,0 +1,2 @@
+# Environment Post Processor
+org.springframework.boot.env.EnvironmentPostProcessor=net.befitca.aws.poc.PocEnvironmentPostProcessor
