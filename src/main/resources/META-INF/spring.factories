@@ -1,2 +1,4 @@
 # Environment Post Processor
 org.springframework.boot.env.EnvironmentPostProcessor=net.befitca.poc.aws.PocEnvironmentPostProcessor
+
+org.springframework.cloud.bootstrap.BootstrapConfiguration=net.befitca.poc.aws.SecretManagerBootstrapConfiguration

@@ -21,7 +21,7 @@ public class PropertiesRestService {
     @Value("${com.befitca.poc.secret2}")
     private String key2;
 
-    @GetMapping
+    @GetMapping("/")
     public ResponseEntity<CollectionResponse> findAll() {
 
         return ResponseEntity.ok(
